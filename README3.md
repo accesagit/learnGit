@@ -1,2 +1,0 @@
-Mesaj
-schimb

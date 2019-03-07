@@ -1,7 +1,11 @@
 # learnGit
 This is a repo to learn git.
-
 new data
 
-New line in repo to learn git.
+# This secttion was added from the 3rd reame file.
+# Avoid redundancy
+Mesaj
+schimbTot
 
+# This sectino was imported from README to avoid redundancy
+schimbTot
