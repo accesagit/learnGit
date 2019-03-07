@@ -11,7 +11,7 @@ public class FindEvenOrOddNumber {
 		//create an array 
 		int[] numbers = new int[]{1,2,3,4,5,6,7,8,9,10,12,11,15,23,100};
 	   
-		for(int i=0; i < numbers.length; i++){
+		for(int i=1; i < numbers.length; i++){
 			   
 			/*
 			 * use modulus operator to check if the number is even or odd. 
