@@ -1,2 +1,2 @@
 Mesaj
-schimbTot
+schimb
