@@ -22,7 +22,7 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
 		for(int i=0;i<10;i++){
         System.out.println("Hello, World!! You are great! Petruta is cool ! Everyone is cool !!!");
-        System.out.println("Hello, World!! This is cezy's change");
+        System.out.println("Hello, Cezi!! This is cezy's change");
 
 		}
     }
