@@ -3,6 +3,5 @@ schimbTot
 Tralalala si lalala
 La la la la la
 nother line here 
-This is my test
 This is a test from Niki
 Append new line on nico.txt
